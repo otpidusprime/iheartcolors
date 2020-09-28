@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ccc;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Drop" class="cls-1" d="M10,1A16.419,16.419,0,0,0,5,6c-3.216,5.513-2.465,8.849-1,11,0.547,0.8,3.879,2.031,6,2,1.941-.028,5.314-1.145,6-2,2.093-2.611,1.365-7.154-1-11A19.741,19.741,0,0,0,10,1Z"/>
+</svg>
